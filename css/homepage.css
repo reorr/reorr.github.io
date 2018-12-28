@@ -24,7 +24,7 @@ html {
 	flex-direction: column;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
-	justify-konten: center
+	justify-content: center
 }
 
 .home {
@@ -95,7 +95,7 @@ html {
     height: 100%;
   }
   .hexa {
-    transform: rotate(90deg);
+    transform: rotate(90deg) translate(20px);
   }
   .hex1 {
     transform: rotate(-60deg);
