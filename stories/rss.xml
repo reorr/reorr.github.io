@@ -43,7 +43,7 @@
     <link href="https://reorr.github.io/stories/2018/11/20/my-ricing-journey/"/>
     <id>https://reorr.github.io/stories/2018/11/20/my-ricing-journey/</id>
     <published>2018-11-20T14:18:10.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.322Z</updated>
     
     <summary type="html">
     
@@ -64,13 +64,13 @@
       <category term="Linux" scheme="https://reorr.github.io/categories/Destop/Kisah/Linux/"/>
     
     
-      <category term="Archlinux" scheme="https://reorr.github.io/tags/Archlinux/"/>
-    
       <category term="elemetaryos" scheme="https://reorr.github.io/tags/elemetaryos/"/>
     
       <category term="manjaro" scheme="https://reorr.github.io/tags/manjaro/"/>
     
-      <category term="Ricing" scheme="https://reorr.github.io/tags/Ricing/"/>
+      <category term="ricing" scheme="https://reorr.github.io/tags/ricing/"/>
+    
+      <category term="archlinux" scheme="https://reorr.github.io/tags/archlinux/"/>
     
   </entry>
   
@@ -79,7 +79,7 @@
     <link href="https://reorr.github.io/stories/2018/09/18/ulasan-singkat-planet-with/"/>
     <id>https://reorr.github.io/stories/2018/09/18/ulasan-singkat-planet-with/</id>
     <published>2018-09-18T14:40:56.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.325Z</updated>
     
     <summary type="html">
     
@@ -87,7 +87,9 @@
       
         
         
-          &lt;h2 id=&quot;Info&quot;&gt;&lt;a href=&quot;#Info&quot; class=&quot;headerlink&quot; title=&quot;Info&quot;&gt;&lt;/a&gt;Info&lt;/h2&gt;&lt;p&gt;Judul: Planet With Jumlah episode: 12 Durasi per episode: 23
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/planet-with-header.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Info&quot;&gt;&lt;a href=&quot;#Info&quot; class=&quot;headerlink&quot;
         
       
     
@@ -113,7 +115,7 @@
     <link href="https://reorr.github.io/stories/2018/08/07/how-to-enable-fingerprint-scanner-on-thinkpad-laptop-in-archlinux/"/>
     <id>https://reorr.github.io/stories/2018/08/07/how-to-enable-fingerprint-scanner-on-thinkpad-laptop-in-archlinux/</id>
     <published>2018-08-07T16:00:47.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.319Z</updated>
     
     <summary type="html">
     
@@ -121,7 +123,9 @@
       
         
         
-          &lt;p&gt;Yeah, as a linux user i know how tiring is typing a password each we run command as super user or simply login. Not again, i’ve
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/thinkpad_fingerprint.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Yeah, as a linux user i know how tiring is
         
       
     
@@ -134,11 +138,11 @@
       <category term="tutorial" scheme="https://reorr.github.io/categories/Linux/Thinkpad/tutorial/"/>
     
     
-      <category term="Archlinux" scheme="https://reorr.github.io/tags/Archlinux/"/>
-    
       <category term="fingerprint" scheme="https://reorr.github.io/tags/fingerprint/"/>
     
       <category term="t430s" scheme="https://reorr.github.io/tags/t430s/"/>
+    
+      <category term="archlinux" scheme="https://reorr.github.io/tags/archlinux/"/>
     
   </entry>
   
@@ -147,7 +151,7 @@
     <link href="https://reorr.github.io/stories/2018/06/11/disassembly-dell-inspiron-1410/"/>
     <id>https://reorr.github.io/stories/2018/06/11/disassembly-dell-inspiron-1410/</id>
     <published>2018-06-11T06:04:58.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.295Z</updated>
     
     <summary type="html">
     
@@ -155,7 +159,9 @@
       
         
         
-          &lt;p&gt;It’s been about two months since i’m getting new laptop, Thinkpad t430s, it isn’t new thought. Well, actually i’m searching for t430,
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/disassembly-dell.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;It’s been about two months since i’m getting
         
       
     
@@ -185,7 +191,7 @@
     <link href="https://reorr.github.io/stories/2018/05/30/cara-convert-file-xlxs-menjadi-vcf/"/>
     <id>https://reorr.github.io/stories/2018/05/30/cara-convert-file-xlxs-menjadi-vcf/</id>
     <published>2018-05-30T09:33:18.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.295Z</updated>
     
     <summary type="html">
     
@@ -193,7 +199,9 @@
       
         
         
-          &lt;p&gt;Jadi gini, sekarang musim maba, jadi saya inisiatif membuat grup whatsapp untuk mewadahi mahasiswa baru agar dapat berkomunikasi. Tapi,
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/convert-vcf.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Jadi gini, sekarang musim maba, jadi saya inisiatif
         
       
     
@@ -214,10 +222,10 @@
   
   <entry>
     <title>Tutorial Masak Mie Gaga Goreng Rasa Lada Hitam Level 3 Dan Impresi Rasa 🍜</title>
-    <link href="https://reorr.github.io/stories/2018/01/22/tutorial-masak-mie-gaga-goreng-rasa-lada-hitam-level-3-dan-impresi-rasa-f0-9f-8d-9c/"/>
-    <id>https://reorr.github.io/stories/2018/01/22/tutorial-masak-mie-gaga-goreng-rasa-lada-hitam-level-3-dan-impresi-rasa-f0-9f-8d-9c/</id>
+    <link href="https://reorr.github.io/stories/2018/01/22/tutorial-masak-mie-gaga-goreng-rasa-lada-hitam-level-3-dan-impresi-rasa/"/>
+    <id>https://reorr.github.io/stories/2018/01/22/tutorial-masak-mie-gaga-goreng-rasa-lada-hitam-level-3-dan-impresi-rasa/</id>
     <published>2018-01-22T15:59:30.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.322Z</updated>
     
     <summary type="html">
     
@@ -225,7 +233,9 @@
       
         
         
-          &lt;p&gt;Bosen saya makan mi rasa itu-itu aja, paling banter kalo nggak mie sedap ya indomi. nah, kemarin saya ke toko swalayan di dekat rumah
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/gaga-header.jpg&quot; alt=&quot;post header&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Bosen saya makan mi rasa itu-itu aja,
         
       
     
@@ -238,13 +248,13 @@
       <category term="Ulasan" scheme="https://reorr.github.io/categories/Random/tutorial/Ulasan/"/>
     
     
-      <category term="emiya-san chi no gohan" scheme="https://reorr.github.io/tags/emiya-san-chi-no-gohan/"/>
-    
       <category term="maknyus" scheme="https://reorr.github.io/tags/maknyus/"/>
     
       <category term="mie" scheme="https://reorr.github.io/tags/mie/"/>
     
       <category term="noodle" scheme="https://reorr.github.io/tags/noodle/"/>
+    
+      <category term="emiya-san chi no kyou no gohan" scheme="https://reorr.github.io/tags/emiya-san-chi-no-kyou-no-gohan/"/>
     
   </entry>
   
@@ -253,7 +263,7 @@
     <link href="https://reorr.github.io/stories/2017/12/31/coding-di-ponsel-android-kenapa-tidak/"/>
     <id>https://reorr.github.io/stories/2017/12/31/coding-di-ponsel-android-kenapa-tidak/</id>
     <published>2017-12-31T13:55:34.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.295Z</updated>
     
     <summary type="html">
     
@@ -261,7 +271,9 @@
       
         
         
-          &lt;p&gt;Hmmm … Jadi gini, laptop saya yang biasa saya gunakan nampaknya sudah terlampau tua dan harus dipensiunkan, sedangkan saya belum ada
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/termux-header.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Hmmm … Jadi gini, laptop saya yang biasa saya
         
       
     
@@ -287,7 +299,7 @@
     <link href="https://reorr.github.io/stories/2017/12/30/ulasan-singkat-houseki-no-kuni/"/>
     <id>https://reorr.github.io/stories/2017/12/30/ulasan-singkat-houseki-no-kuni/</id>
     <published>2017-12-29T22:19:04.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T05:51:34.325Z</updated>
     
     <summary type="html">
     
@@ -295,7 +307,8 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;https://chamelemon.files.wordpress.com/2017/12/houseki-no-kuni-full-2141538.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/houseki-no-kuni-full.jpg&quot; alt=&quot;houseki no kuni&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
 &lt;h2 id=&quot;Info&quot;&gt;&lt;a href=&quot;#Info&quot;
         
       
@@ -322,7 +335,7 @@
     <link href="https://reorr.github.io/stories/2017/12/15/saya-pulpstone-dan-luci/"/>
     <id>https://reorr.github.io/stories/2017/12/15/saya-pulpstone-dan-luci/</id>
     <published>2017-12-15T15:24:08.000Z</published>
-    <updated>2018-12-28T03:19:41.650Z</updated>
+    <updated>2018-12-31T04:15:21.889Z</updated>
     
     <summary type="html">
     
